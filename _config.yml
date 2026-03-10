@@ -1,5 +1,7 @@
 title: Physical AI SDK - Model Documentation
 description: Documentation for AI models and systems used across Robotics, Industrial, and Healthcare segments
+baseurl: /psdk-model-docs
+url: https://hvydana.github.io
 theme: jekyll-theme-cayman
 
 # Markdown settings
