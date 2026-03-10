@@ -1,5 +1,9 @@
 # 3DPSP-Net - Benchmark Guide for AMD GPU
 
+**Navigation:** [🏠 Home](/) | [📑 Models Index](/MODELS_INDEX) | [📝 Contributing](/CONTRIBUTING)
+
+---
+
 ## About the Model
 
 3DPSP-Net (3D Pyramid Scene Parsing Network) is a deep learning architecture designed for semantic segmentation of 3D point clouds and volumetric medical imaging data. The model extends the successful 2D PSPNet architecture to three dimensions, enriching pointwise features with multi-scale contextual information through a pyramid pooling module. This generic module can be concatenated with any 3D neural network to significantly improve semantic segmentation performance in complex 3D scenes.

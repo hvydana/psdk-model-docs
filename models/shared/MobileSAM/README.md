@@ -1,5 +1,9 @@
 # MobileSAM - Benchmark Guide for AMD GPU
 
+**Navigation:** [🏠 Home](/) | [📑 Models Index](/MODELS_INDEX) | [📝 Contributing](/CONTRIBUTING)
+
+---
+
 ## About the Model
 
 MobileSAM (Mobile Segment Anything Model) is a highly optimized implementation of Meta's Segment Anything Model (SAM) designed specifically for mobile and edge devices. It replaces SAM's heavy ViT-H encoder (632M parameters) with a lightweight Tiny-ViT encoder (5M parameters), achieving approximately 60× reduction in model size while maintaining competitive segmentation quality. MobileSAM can process images in just 10-12ms on GPU, making it 5-7× faster than the original SAM and suitable for real-time applications on resource-constrained devices.

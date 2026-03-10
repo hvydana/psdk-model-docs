@@ -1,5 +1,9 @@
 # Qwen3-VL-4B
 
+**Navigation:** [🏠 Home](/) | [📑 Models Index](/MODELS_INDEX) | [📝 Contributing](/CONTRIBUTING)
+
+---
+
 ## Overview
 Qwen 3 Vision-Language Model 4B parameters
 

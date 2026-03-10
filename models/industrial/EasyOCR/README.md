@@ -1,5 +1,9 @@
 # EasyOCR - Benchmark Guide for AMD GPU
 
+**Navigation:** [🏠 Home](/) | [📑 Models Index](/MODELS_INDEX) | [📝 Contributing](/CONTRIBUTING)
+
+---
+
 ## About the Model
 
 EasyOCR is a ready-to-use Optical Character Recognition (OCR) toolkit that supports 80+ languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic, and more. Built on PyTorch, it uses a two-stage approach combining state-of-the-art deep learning models for text detection and recognition, offering an excellent balance between simplicity, performance, and multilingual support. EasyOCR is particularly effective for structured documents like receipts, PDFs, and bills, while also handling scene text in natural images.

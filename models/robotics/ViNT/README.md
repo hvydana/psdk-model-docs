@@ -1,5 +1,9 @@
 # ViNT
 
+**Navigation:** [🏠 Home](/) | [📑 Models Index](/MODELS_INDEX) | [📝 Contributing](/CONTRIBUTING)
+
+---
+
 ## Overview
 Visual Navigation Transformer
 

@@ -1,5 +1,9 @@
 # 3D V-Net - Benchmark Guide for AMD GPU
 
+**Navigation:** [🏠 Home](/) | [📑 Models Index](/MODELS_INDEX) | [📝 Contributing](/CONTRIBUTING)
+
+---
+
 ## About the Model
 
 V-Net is a fully convolutional neural network architecture designed for volumetric (3D) medical image segmentation. It extends the U-Net architecture to 3D volumes and introduces residual connections to enable learning of residual functions. V-Net is trained end-to-end on volumetric medical imaging data (such as MRI or CT scans) and learns to predict segmentation for entire 3D volumes at once. The architecture is particularly well-suited for medical imaging tasks where the relationship between adjacent slices is crucial for accurate segmentation.

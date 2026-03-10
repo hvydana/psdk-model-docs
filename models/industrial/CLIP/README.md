@@ -1,5 +1,9 @@
 # CLIP - Benchmark Guide for AMD GPU
 
+**Navigation:** [🏠 Home](/) | [📑 Models Index](/MODELS_INDEX) | [📝 Contributing](/CONTRIBUTING)
+
+---
+
 ## About the Model
 
 CLIP (Contrastive Language-Image Pretraining) is a neural network trained on 400 million (image, text) pairs that can be instructed in natural language to predict the most relevant text snippet given an image, without directly optimizing for the task. CLIP learns visual concepts from natural language supervision, enabling zero-shot transfer to downstream tasks without task-specific training data. The model bridges computer vision and natural language processing by learning a shared embedding space where images and their textual descriptions are aligned.

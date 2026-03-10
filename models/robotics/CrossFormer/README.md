@@ -1,5 +1,9 @@
 # CrossFormer
 
+**Navigation:** [🏠 Home](/) | [📑 Models Index](/MODELS_INDEX) | [📝 Contributing](/CONTRIBUTING)
+
+---
+
 ## Overview
 Cross-Scale Transformer for vision tasks
 

@@ -1,5 +1,9 @@
 # RAFT-Stereo - Benchmark Guide for AMD GPU
 
+**Navigation:** [🏠 Home](/) | [📑 Models Index](/MODELS_INDEX) | [📝 Contributing](/CONTRIBUTING)
+
+---
+
 ## About the Model
 
 RAFT-Stereo is a state-of-the-art deep learning architecture for stereo matching and depth estimation from rectified stereo image pairs. Built upon the RAFT (Recurrent All-Pairs Field Transforms) optical flow architecture, RAFT-Stereo introduces multi-level convolutional GRUs that efficiently propagate information across the image for accurate disparity estimation. The model achieves real-time performance (up to 26 FPS) while maintaining high accuracy, making it suitable for industrial applications requiring both speed and precision in depth estimation.

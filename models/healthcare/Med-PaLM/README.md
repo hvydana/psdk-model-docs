@@ -1,5 +1,9 @@
 # Med-PaLM - Benchmark Guide for AMD GPU
 
+**Navigation:** [🏠 Home](/) | [📑 Models Index](/MODELS_INDEX) | [📝 Contributing](/CONTRIBUTING)
+
+---
+
 ## About the Model
 
 Med-PaLM is Google's medical large language model designed to provide high-quality answers to medical questions. It represents the first AI system to reach a "passing" score on United States Medical Licensing Examination (USMLE)-style questions, and with Med-PaLM 2, achieved expert-level performance on medical benchmarks. The model is built on Google's PaLM (Pathways Language Model) architecture, with specialized medical domain fine-tuning to address healthcare question answering tasks.

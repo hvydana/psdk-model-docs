@@ -1,5 +1,9 @@
 # InternVideo2.5 - Benchmark Guide for AMD GPU
 
+**Navigation:** [🏠 Home](/) | [📑 Models Index](/MODELS_INDEX) | [📝 Contributing](/CONTRIBUTING)
+
+---
+
 ## About the Model
 
 InternVideo2.5 is a state-of-the-art video multimodal large language model (MLLM) built upon InternVL2.5, enhanced with long and rich context (LRC) modeling. It significantly improves video understanding capabilities by enabling both fine-grained spatiotemporal perception and long-form temporal structure comprehension. The model can process videos with up to 10,000 frames (6x longer than previous models), making it capable of precise "needle in a haystack" search within tens of thousands of frames while providing detailed motion descriptions and their specific timestamps.

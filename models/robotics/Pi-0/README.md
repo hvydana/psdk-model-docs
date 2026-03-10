@@ -1,5 +1,9 @@
 # Pi-0 (π₀) - Benchmark Guide for AMD GPU
 
+**Navigation:** [🏠 Home](/) | [📑 Models Index](/MODELS_INDEX) | [📝 Contributing](/CONTRIBUTING)
+
+---
+
 ## About the Model
 
 Pi-0 (π₀) is a generalist vision-language-action (VLA) foundation model for robot control developed by Physical Intelligence. It's the first robotic foundation model that can perform dexterous manipulation tasks across diverse robot embodiments with zero-shot and fine-tuned capabilities. The model employs flow matching to produce smooth, real-time action trajectories at 50Hz, making it highly efficient, precise, and adaptable for real-world deployment. Pi-0 can perform complex tasks such as laundry folding, table bussing, grocery bagging, box assembly, and object retrieval.

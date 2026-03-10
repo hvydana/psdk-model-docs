@@ -1,5 +1,9 @@
 # PaDiM - Benchmark Guide for AMD GPU
 
+**Navigation:** [🏠 Home](/) | [📑 Models Index](/MODELS_INDEX) | [📝 Contributing](/CONTRIBUTING)
+
+---
+
 ## About the Model
 
 PaDiM (Patch Distribution Modeling) is a state-of-the-art framework for anomaly detection and localization in industrial inspection applications. It uses pretrained convolutional neural networks (CNNs) to extract patch-level features and models the normal class distribution using multivariate Gaussian distributions. PaDiM excels at detecting and localizing defects in manufacturing processes without requiring retraining, making it ideal for industrial quality control where only normal samples are available during training (one-class learning).

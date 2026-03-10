@@ -1,5 +1,9 @@
 # DeepSeek-R1 - Benchmark Guide for AMD GPU
 
+**Navigation:** [🏠 Home](/) | [📑 Models Index](/MODELS_INDEX) | [📝 Contributing](/CONTRIBUTING)
+
+---
+
 ## About the Model
 
 DeepSeek-R1 is a first-generation reasoning model that achieves performance comparable to OpenAI-o1 across math, code, and reasoning tasks. Built on the DeepSeek-V3 architecture with 671 billion parameters (37 billion activated per forward pass), R1 is fine-tuned using Reinforcement Learning to improve reasoning and Chain-of-Thought output. The model excels at complex reasoning tasks and can think through problems step-by-step before providing answers.

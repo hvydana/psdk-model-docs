@@ -1,5 +1,9 @@
 # LLaMA 3.2 Vision 11B - Benchmark Guide for AMD GPU
 
+**Navigation:** [🏠 Home](/) | [📑 Models Index](/MODELS_INDEX) | [📝 Contributing](/CONTRIBUTING)
+
+---
+
 ## About the Model
 
 LLaMA 3.2 Vision 11B is Meta's first multimodal vision-language model in the LLaMA series, combining image understanding with text generation capabilities. Built on top of the LLaMA 3.1 text-only model, it uses a separately trained vision adapter that integrates with the pre-trained language model to enable visual reasoning, image captioning, document understanding, and visual question answering. The model has 10.7 billion parameters and supports a context length of 128,000 tokens, making it suitable for complex multimodal reasoning tasks.

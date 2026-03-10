@@ -1,5 +1,9 @@
 # 3D-AlexNet - Benchmark Guide for AMD GPU
 
+**Navigation:** [🏠 Home](/) | [📑 Models Index](/MODELS_INDEX) | [📝 Contributing](/CONTRIBUTING)
+
+---
+
 ## About the Model
 
 3D-AlexNet is an adaptation of the groundbreaking AlexNet architecture for volumetric medical image analysis. By extending 2D convolutions to 3D, this architecture can process entire medical imaging volumes (such as MRI and CT scans) while preserving spatial relationships across all three dimensions. The model replaces all 2D filters with 3D filters in both convolutional and pooling layers, enabling it to capture rich volumetric features critical for accurate medical diagnosis and classification.

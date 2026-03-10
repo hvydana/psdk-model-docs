@@ -1,6 +1,6 @@
 # Physical AI SDK - Model Documentation
 
-**Navigation:** [🏠 Home](README.md) | [📑 Models Index](MODELS_INDEX.md) | [📝 Contributing](CONTRIBUTING.md)
+**Navigation:** [🏠 Home](/) | [📑 Models Index](/MODELS_INDEX) | [📝 Contributing](/CONTRIBUTING)
 
 ---
 

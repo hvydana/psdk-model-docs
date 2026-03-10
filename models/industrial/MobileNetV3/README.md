@@ -1,5 +1,9 @@
 # MobileNetV3 - Benchmark Guide for AMD GPU
 
+**Navigation:** [🏠 Home](/) | [📑 Models Index](/MODELS_INDEX) | [📝 Contributing](/CONTRIBUTING)
+
+---
+
 ## About the Model
 
 MobileNetV3 is a state-of-the-art efficient convolutional neural network (CNN) architecture designed for mobile and edge devices. It represents the third generation of MobileNet models, optimized through hardware-aware neural architecture search (NAS) combined with the NetAdapt algorithm. MobileNetV3 delivers significant improvements in accuracy while maintaining or reducing latency compared to previous versions, making it ideal for industrial computer vision applications on resource-constrained devices.

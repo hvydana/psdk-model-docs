@@ -1,5 +1,9 @@
 # 3D U-Net - Benchmark Guide for AMD GPU
 
+**Navigation:** [🏠 Home](/) | [📑 Models Index](/MODELS_INDEX) | [📝 Contributing](/CONTRIBUTING)
+
+---
+
 ## About the Model
 
 3D U-Net is a groundbreaking deep learning architecture for volumetric medical image segmentation. It extends the original 2D U-Net architecture to three dimensions, enabling dense volumetric segmentation from sparse annotations. The model employs a symmetric encoder-decoder structure with skip connections, allowing it to learn from limited annotated data while maintaining spatial context across entire 3D volumes. 3D U-Net has become a foundational architecture for medical imaging tasks involving CT scans, MRI volumes, and other 3D medical data.

@@ -1,5 +1,9 @@
 # XTTS - Benchmark Guide for AMD GPU
 
+**Navigation:** [🏠 Home](/) | [📑 Models Index](/MODELS_INDEX) | [📝 Contributing](/CONTRIBUTING)
+
+---
+
 ## About the Model
 
 XTTS (Cross-lingual Text-to-Speech) is a massively multilingual zero-shot text-to-speech model developed by Coqui AI. Built on the Tortoise architecture with novel enhancements, XTTS enables high-quality voice cloning with just a 6-second audio clip and supports real-time streaming synthesis with <200ms latency. The model achieves state-of-the-art performance across 16 languages and can generate natural-sounding speech in any supported language using voice samples from speakers in different languages.

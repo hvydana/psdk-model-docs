@@ -1,5 +1,9 @@
 # Insanely Fast Whisper - Benchmark Guide for AMD GPU
 
+**Navigation:** [🏠 Home](/) | [📑 Models Index](/MODELS_INDEX) | [📝 Contributing](/CONTRIBUTING)
+
+---
+
 ## About the Model
 
 Insanely Fast Whisper is a highly optimized implementation of OpenAI's Whisper automatic speech recognition (ASR) model. It's built on HuggingFace Transformers with restructured attention layers to enable GPUs to process larger chunks of data simultaneously, achieving significantly faster transcription speeds. The implementation can transcribe 150 minutes (2.5 hours) of audio in less than 98 seconds using Whisper Large v3.

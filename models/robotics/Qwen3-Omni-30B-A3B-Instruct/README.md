@@ -1,5 +1,9 @@
 # Qwen3 Omni 30B A3B Instruct
 
+**Navigation:** [🏠 Home](/) | [📑 Models Index](/MODELS_INDEX) | [📝 Contributing](/CONTRIBUTING)
+
+---
+
 ## Overview
 Multi-modal instruction-following model
 

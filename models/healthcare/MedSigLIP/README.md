@@ -1,5 +1,9 @@
 # MedSigLIP - Benchmark Guide for AMD GPU
 
+**Navigation:** [🏠 Home](/) | [📑 Models Index](/MODELS_INDEX) | [📝 Contributing](/CONTRIBUTING)
+
+---
+
 ## About the Model
 
 MedSigLIP (Medical Sigmoid Loss for Language-Image Pre-training) is a specialized medical vision-language encoder developed by Google Health AI that encodes medical images and text into a shared embedding space. Built on the SigLIP architecture, MedSigLIP is adapted specifically for healthcare applications through training on diverse medical imaging data including chest X-rays, histopathology patches, dermatology images, and fundus images. This enables the model to learn nuanced features specific to medical imaging modalities while retaining strong performance on natural images.

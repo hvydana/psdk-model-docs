@@ -1,5 +1,9 @@
 # CenterPoint
 
+**Navigation:** [🏠 Home](/) | [📑 Models Index](/MODELS_INDEX) | [📝 Contributing](/CONTRIBUTING)
+
+---
+
 ## Overview
 3D object detection model for point cloud data
 

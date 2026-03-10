@@ -1,5 +1,9 @@
 # YOLOv12 - Benchmark Guide for AMD GPU
 
+**Navigation:** [🏠 Home](/) | [📑 Models Index](/MODELS_INDEX) | [📝 Contributing](/CONTRIBUTING)
+
+---
+
 ## About the Model
 
 YOLOv12 is an attention-centric real-time object detection model that represents the latest evolution in the YOLO (You Only Look Once) family. It introduces a novel attention-based architecture that matches the speed of previous CNN-based YOLO models while harnessing the performance benefits of attention mechanisms. The model leverages Area Attention to reduce computational complexity and Residual Efficient Layer Aggregation Networks (R-ELAN) to enhance feature aggregation, achieving state-of-the-art accuracy on standard benchmarks while maintaining real-time inference speeds.

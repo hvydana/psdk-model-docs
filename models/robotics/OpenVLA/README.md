@@ -1,5 +1,9 @@
 # OpenVLA - Benchmark Guide for AMD GPU
 
+**Navigation:** [🏠 Home](/) | [📑 Models Index](/MODELS_INDEX) | [📝 Contributing](/CONTRIBUTING)
+
+---
+
 ## About the Model
 
 OpenVLA (Open Vision-Language-Action) is a 7B-parameter open-source model designed for robotic manipulation tasks. It combines visual perception with language understanding to generate robot actions, enabling robots to follow natural language instructions while performing manipulation tasks. The model was trained on 970,000 real-world robot demonstrations from the Open X-Embodiment dataset, spanning 22 different robot embodiments and 527 skills across diverse manipulation scenarios.

@@ -1,5 +1,9 @@
 # DeepSort - Benchmark Guide for AMD GPU
 
+**Navigation:** [🏠 Home](/) | [📑 Models Index](/MODELS_INDEX) | [📝 Contributing](/CONTRIBUTING)
+
+---
+
 ## About the Model
 
 DeepSort (Simple Online and Realtime Tracking with a Deep Association Metric) is an extension of the SORT (Simple Online and Realtime Tracking) algorithm that integrates appearance information to improve multi-object tracking performance. By combining motion information from the Kalman filter with deep appearance features extracted using a CNN, DeepSort significantly reduces the number of identity switches and enables tracking through longer periods of occlusions. The algorithm is designed for real-time performance while maintaining robust tracking accuracy in crowded scenes.

@@ -1,5 +1,9 @@
 # EfficientNetV2 - Benchmark Guide for AMD GPU
 
+**Navigation:** [🏠 Home](/) | [📑 Models Index](/MODELS_INDEX) | [📝 Contributing](/CONTRIBUTING)
+
+---
+
 ## About the Model
 
 EfficientNetV2 is a family of convolutional neural networks that achieve state-of-the-art accuracy while being significantly faster to train and smaller in parameter size compared to previous models. Built upon the success of EfficientNet, EfficientNetV2 introduces training-aware neural architecture search (NAS) and scaling to jointly optimize model accuracy, training speed, and parameter efficiency. The architecture uses a combination of Fused-MBConv layers and progressive learning techniques to achieve superior performance.
