@@ -1,0 +1,29 @@
+title: Physical AI SDK - Model Documentation
+description: Documentation for AI models and systems used across Robotics, Industrial, and Healthcare segments
+theme: jekyll-theme-cayman
+
+# Markdown settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# Exclude files from processing
+exclude:
+  - preview_server.py
+  - github-theme.css
+  - .github
+
+# Include README files
+include:
+  - README.md
+  - MODELS_INDEX.md
+  - CONTRIBUTING.md
+
+# Plugins
+plugins:
+  - jekyll-relative-links
+
+relative_links:
+  enabled: true
+  collections: false
