@@ -1,5 +1,9 @@
 # Contributing to Model Documentation
 
+**Navigation:** [🏠 Home](README.md) | [📑 Models Index](MODELS_INDEX.md) | [📝 Contributing](CONTRIBUTING.md)
+
+---
+
 ## Structure
 
 This repository follows a structured organization:

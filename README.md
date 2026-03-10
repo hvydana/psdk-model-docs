@@ -1,5 +1,9 @@
 # Physical AI SDK - Model Documentation
 
+**Navigation:** [🏠 Home](README.md) | [📑 Models Index](MODELS_INDEX.md) | [📝 Contributing](CONTRIBUTING.md)
+
+---
+
 This repository contains documentation for AI models and systems used across Robotics, Industrial, and Healthcare segments as part of the Physical AI SDK architecture.
 
 ## Model Categories

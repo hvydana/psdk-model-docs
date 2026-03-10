@@ -1,5 +1,9 @@
 # Models and Systems Index
 
+**Navigation:** [🏠 Home](README.md) | [📑 Models Index](MODELS_INDEX.md) | [📝 Contributing](CONTRIBUTING.md)
+
+---
+
 ## Models by Segment
 
 ### Robotics Models (14)
